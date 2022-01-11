@@ -31,4 +31,4 @@ def combinacion2(*args, **kwargs):
     print(args)
     print(kwargs)
 
-combinacion2(1, 2, 3, 4, 5, cody=True, curso='Python', level='beginner')
+combinacion2(1, 2, 3, 4, 5, cody=True, curso='Python', level='Beginner')
